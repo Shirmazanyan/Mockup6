@@ -1,0 +1,296 @@
+@media only screen and (max-width: 1140px)  {
+    body{
+        overflow-x: hidden;
+    }
+    .header .container .front_iphone img{
+        margin-top: 72px;
+    }
+    .carousel .container .owl-carousel{
+        overflow-x: hidden;
+    }
+    .owl-carousel.owl-drag .owl-item{
+        display: none;
+    }
+
+
+    }
+
+@media only screen and (max-width: 1024px)  {
+    .header .navbar .collapse .center .dif_word{
+        margin-left: -223px;
+    }
+    .protected .img_text img{
+        width: 88%;
+    }
+    .perfect_plan .container .row .col-md-6 .info_plans{
+        margin-left: 133px;
+    }
+    .header .container .front_iphone img{
+        display: none;
+    }
+    .interface .container .owl-carousel{
+        display: none;
+    }
+    .perfect_plan .container .row .col-md-6 .info_plans{
+        margin-left: 74px;
+    }
+    .perfect_plan .container .row .col-md-6 .card_boxes{
+        width: 412px;
+    }
+    .header .navbar .collapse{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: -119px;
+    }
+    .header .navbar .collapse .btn-app{
+        margin-left: 297px;
+    }
+}
+
+@media only screen and (max-width: 768px)  {
+
+    .mr-auto, .mx-auto{
+        text-align: center;
+    }
+    .header .navbar .collapse .center .dif_word{
+        margin-left: -351px;
+    }
+    .help_conf{
+        margin-left: -27px;
+    }
+    .header .navbar .collapse .btn-app{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .header .container .front_iphone img{
+        display: none;
+    }
+    .carousel{
+        display: none;
+    }
+    .info_security .container .row .col-md-6{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .info_security .container .row .col-md-6 .sec_t{
+        text-align: center;
+    }
+    .info_security .container .row .col-md-6 .lorem_t{
+        text-align: center;
+    }
+    .protected .img_text img{
+        width: 58%;
+    }
+    .protected .img_text .text_iphne .title_text{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .protected .img_text .text_iphne .t_tel{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .protected .img_text .text_iphne .buttons{
+      display: flex;
+        justify-content: center;
+    }
+    .map .container .everywher .col-md-6 h1{
+        text-align: center;
+    }
+    .map .container .everywher .col-md-6 .t_text{
+        text-align: center;
+    }
+    .map .container .everywher .col-md-6 h4{
+        display: none;
+
+    }
+    .map .container .everywher .col-md-6 .logos{
+        margin: 0 auto;
+        text-align: center;
+
+    }
+    .map .container .everywher .col-md-6 img{
+        margin-top: 30px;
+    }
+    .interface .container .owl-carousel{
+        display: none;
+    }
+    .perfect_plan .container .row .col-md-6 .small_t{
+        display: none;
+    }
+    .perfect_plan .container .row .col-md-6 .info_plans{
+        text-align: center;
+        margin-left: 41px;
+    }
+    .perfect_plan .container .row .col-md-6 .subtitle{
+        text-align: center;
+        margin-left: 36px;
+        margin-bottom: 20px;
+    }
+    .subscribe .container .row .col-md-6 .t_subs{
+        text-align: center;
+    }
+    .subscribe .container .row .col-md-6 .info_lorem{
+        text-align: center;
+        margin-left: 28px;
+    }
+    .subscribe .container .app_store{
+        margin-left: 165px;
+    }
+    .subscribe .container .row .col-md-6 .soc_icons{
+        margin-left: 162px;
+
+    }
+    .subscribe .container .row .col-md-6 .info_tabs{
+        margin-left: -25px;
+        margin-top: 51px;
+    }
+    .footer .container .info_footer .link .f_t{
+        display: none;
+    }
+    .footer .container .info_footer .f_logo .f_t{
+        display: none;
+    }
+    .perfect_plan .container .row .col-md-6 a{
+        display: none;
+    }
+    .header .navbar .collapse .center .dif_word{
+        margin-left: -343px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .header .navbar .collapse .btn-app{
+        margin-left: 248px;
+    }
+    .header .navbar .collapse .center .dif_word{
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+
+    }
+}
+
+@media only screen and (max-width: 425px)  {
+    .header .navbar{
+        margin-left: -102px;
+    }
+    .header .container h1{
+        font-size: 25px;
+    }
+    .header .container .short_info{
+        font-size: 12px;
+    }
+    .protected .img_text .text_iphne .title_text{
+        font-size: 25px;
+    }
+    .protected .img_text .text_iphne .t_tel{
+        font-size: 12px;
+    }
+    .map .container .everywher .col-md-6 h1{
+        font-size: 25px;
+    }
+    .map .container .everywher .col-md-6 .t_text{
+        font-size: 12px;
+    }
+    .interface .container h1{
+        font-size: 25px;
+    }
+    .interface .container .smartphone{
+        font-size: 20px;
+    }
+    .interface .container .input_button .btn_sends{
+        display: none;
+    }
+    .subscribe .container .input_button .btn_sends{
+        display: none;
+    }
+    .subscribe .container .app_store{
+        margin-left: 100px;
+
+    }
+    .subscribe .container .row .col-md-6 .soc_icons{
+        margin-left: 115px;
+    }
+}
+
+@media only screen and (max-width: 375px)  {
+    .perfect_plan .container .row .col-md-6 .card_boxes{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        margin-left: 34px;
+    }
+    .subscribe .container h1{
+        font-size: 25px;
+    }
+    .subscribe .container .app_store{
+        margin-left: 80px;
+    }
+    .subscribe .container .row .col-md-6 .soc_icons{
+        margin-left: 81px;
+    }
+}
+
+@media only screen and (max-width: 320px)  {
+    .header .navbar .collapse{
+        margin-left: -44px;
+    }
+    .info_security .container .row .col-md-6 .lorem_t{
+        font-size: 10px;
+    }
+    .protected .img_text .text_iphne .buttons{
+        display: flex;
+        flex-direction: column;
+        margin-left: 55px;
+    }
+    .protected .img_text .text_iphne .buttons .btn_huck{
+        margin-bottom: 20px;
+    }
+    .interface .container h1{
+        font-size: 20px;
+    }
+    .interface .container .smartphone{
+        font-size: 17px;
+    }
+    .perfect_plan .container .row .col-md-6 .card_boxes{
+        margin-left: 5px;
+    }
+    .subscribe .container .app_store{
+        margin-left: 53px;
+    }
+    .subscribe .container .row .col-md-6 .soc_icons{
+        margin-left: 54px;
+    }
+    .footer .container .info_footer{
+        display: flex;
+        flex-direction: column;
+        margin-left: 37px;
+    }
+    .footer .container .info_footer .f_logo .nice_t{
+        margin-left: 37px;
+        margin-top: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
